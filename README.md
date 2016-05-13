@@ -2,11 +2,12 @@ NEUP-Geek-Awesome
 ====
 
 Great and useful resources Shared by NEUP-Geek Member
-Place the resource name , and if 
-it has a link to the resource, place it together
-under certain category
 
-If you do not know how to write github flavored markdown, see this [link](https://help.github.com/articles/basic-writing-and-formatting-syntax/) for basic markdown knowledge
+> Place the resource name , and if 
+> it has a link to the resource, place it together
+> under certain category
+
+If you do not know how to write github flavored markdown, see this [link](https://guides.github.com/features/mastering-markdown/) for basic markdown knowledge
 
 ## Programming Languages
 
