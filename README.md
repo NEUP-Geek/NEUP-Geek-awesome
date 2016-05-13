@@ -18,6 +18,7 @@ If you do not know how to write github flavored markdown, see this [link](https:
 * Computer System A Programmer's Perspective
 
 ### C++
+* [C++ Primer Plus](http://hadron.physics.fsu.edu/~eugenio/comphy/C++_Primer_Plus_5thEd.pdf)
 
 ### PHP
 * [Laravel Framework](http://laravel.com)
