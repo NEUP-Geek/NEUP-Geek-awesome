@@ -62,7 +62,7 @@ These entry above , format `[Name](link)` or `Name`
 Blog entry contains NEUP-Geek Member's blog entry
 
 * [VOID001's WOWO](http://120.27.97.96)
-
+* [Mr.Hare](https://www.renmingxu.cn)
 ### Short Docs~~
 These links link to other pages in this repo
 
