@@ -30,8 +30,11 @@ If you do not know how to write github flavored markdown, see this [link](https:
 ### Javascript
 
 ### Rust
+* [RustPrimer](https://github.com/rustcc/RustPrimer)  
+* [Rust官方Book汉化版](https://github.com/rustcc/rust-zh)  
 
 ### Go
+* [Go语言圣经中文版](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)  
 
 ### Computer Math
 * 具体数学(Concrete Math)
