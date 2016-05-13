@@ -28,6 +28,7 @@ If you do not know how to write github flavored markdown, see this [link](https:
 ### Python
 
 ### Javascript
+* [react-native-guide](https://github.com/ele828/react-native-guide)  
 
 ### Rust
 * [RustPrimer](https://github.com/rustcc/RustPrimer)  
