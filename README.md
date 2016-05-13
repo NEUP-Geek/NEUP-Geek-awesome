@@ -16,6 +16,8 @@ If you do not know how to write github flavored markdown, see this [link](https:
 * Linux C 编程一站式学习
 * UNIX 环境高级编程
 * Computer System A Programmer's Perspective
+* [程序员的自我修养 链接,装载与库](http://vdisk.weibo.com/s/dxNwZPLaKk3Z)
+* [Winehq](https://www.winehq.org)
 
 ### C++
 * [C++ Primer Plus](http://hadron.physics.fsu.edu/~eugenio/comphy/C++_Primer_Plus_5thEd.pdf)
@@ -40,6 +42,7 @@ If you do not know how to write github flavored markdown, see this [link](https:
 ### Git
 
 * [Progit](https://git-scm.com/book/en/v2)
+* [Try git](https://try.github.io)
 
 ### Continues Integration(CI)
 
@@ -51,6 +54,7 @@ If you do not know how to write github flavored markdown, see this [link](https:
 * vimtutor
 * [vim-awesome](http://vimawesome.com)
 * [vim-adventures](http://vim-adventures.com/)
+* [vimium(A plugin for Chrome vim-mode)](https://vimium.github.io/)
 
 ### Emacs
 
